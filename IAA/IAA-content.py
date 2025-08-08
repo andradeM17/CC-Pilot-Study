@@ -7,11 +7,11 @@ from collections import Counter
 from sklearn.metrics import cohen_kappa_score
 
 
-files = ["Content", "Genre", "Topic", "Text Type"]
+files = ["Content", "Genre", "Topic", "Text Type", "FTopic"]
 
 for x in range(len(files)):
     print(files[x])
-    data = pd.read_csv(f"{files[x]}.csv")
+    data = pd.read_csv(f"IAA/Files/{files[x]}.csv")
     data = data.values.tolist()  # Convert DataFrame to list of lists
 
 
@@ -108,6 +108,9 @@ for x in range(len(files)):
 
     elif x == 3:
         all_labels = ["Descriptive", "Expository", "Narrative", "Persuasive / Argumentative", "Instructional", "Interrogative"]
+
+    elif x == 4:
+        all_labels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
     label_list = sorted(all_labels)  # consistent order
