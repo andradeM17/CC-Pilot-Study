@@ -5,12 +5,12 @@ import xml.etree.ElementTree as ET
 import csv
 
 # === CONFIG ===
-zip_path = 'en(1).zip'                      # Path to your .zip file
-output_txt_dir = 'extracted_texts'       # Directory to save .txt files
-output_csv_path = 'first_40_lines.csv'   # Path to save .csv summary
-base_path = 'EUbookshop/xml/en/'      # Base folder inside the zip
-num_files = 40                           # Number of files to extract
-lines_to_csv = 20                        # Number of lines per file for CSV
+zip_path = '/home/intern/Downloads/es.zip'  # Path to your .zip file
+output_txt_dir = 'extracted_texts'          # Directory to save .txt files
+output_csv_path = '/home/intern/Downloads/first_40_lines.csv'      # Path to save .csv summary
+base_path = 'EUbookshop/xml/es/'            # Base folder inside the zip
+num_files = 50                              # Number of files to extract
+lines_to_csv = 40                           # Number of lines per file for CSV
 
 def extract_lines_from_xml(xml_content):
     """Extracts lines of words from each <s> block."""
@@ -60,7 +60,7 @@ def extract_and_save(zip_path, output_txt_dir, output_csv_path, base_path, num_f
     # Write to CSV with newline-containing cells
     with open(output_csv_path, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file, quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Filename', 'First20Lines'])  # Header
+        writer.writerow(['Filename', 'First40Lines'])  # Header
         writer.writerows(csv_rows)
 
     print(f"CSV saved to: {output_csv_path}")
