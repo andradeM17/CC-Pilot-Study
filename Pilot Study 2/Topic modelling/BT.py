@@ -3,7 +3,7 @@ from bertopic import BERTopic
 import pandas as pd
 
 # Read CSV file
-df = pd.read_csv("Topic modelling/documents.csv")
+df = pd.read_csv("Pilot Study 2/Topic modelling/documents.csv")
 documents = df['Text'].dropna().tolist()
 
 # Check documents

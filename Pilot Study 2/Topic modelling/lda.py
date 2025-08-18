@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 
 # Load documents
-df = pd.read_csv("Topic modelling/documents.csv")
+df = pd.read_csv("Pilot Study 2/Topic modelling/documents.csv")
 documents = df['Text'].astype(str).tolist()
 
 # Vectorize the documents

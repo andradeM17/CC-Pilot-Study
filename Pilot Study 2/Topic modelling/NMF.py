@@ -4,7 +4,7 @@ from sklearn.decomposition import NMF
 
 # --- Load data ---
 # abc.csv should have a column named 'text'
-df = pd.read_csv("Topic modelling/documents.csv")
+df = pd.read_csv("Pilot Study 2/Topic modelling/documents.csv")
 documents = df['Text'].fillna("").tolist()
 
 # --- TF-IDF transformation ---
