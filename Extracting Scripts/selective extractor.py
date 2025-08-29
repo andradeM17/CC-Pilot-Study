@@ -5,11 +5,11 @@ import xml.etree.ElementTree as ET
 import csv
 
 # === CONFIG ===
-zip_path = '/home/intern/Downloads/es.zip'  # Path to your .zip file
+zip_path = '/home/intern/Downloads/ga.zip'  # Path to your .zip file
 output_txt_dir = 'extracted_texts'          # Directory to save .txt files
 output_csv_path = '/home/intern/Downloads/first_40_lines.csv'      # Path to save .csv summary
-base_path = 'EUbookshop/xml/es/'            # Base folder inside the zip
-num_files = 50                              # Number of files to extract
+base_path = 'EUbookshop/xml/ga/'            # Base folder inside the zip
+num_files = 2                               # Number of files to extract
 lines_to_csv = 40                           # Number of lines per file for CSV
 
 def extract_lines_from_xml(xml_content):
