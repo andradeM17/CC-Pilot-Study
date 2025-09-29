@@ -1,0 +1,50 @@
+AppArmorApplet is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.
+AppArmor Desktop Preferences
+Profile Generation
+Path
+YAST
+genprof
+AppArmor Rejections
+you either need to do a local operation (-s, -g, -o) or supply an authentication file (--auth); see --help for a short helpy
+OK
+Cancel
+Reboot
+Continue
+Boot Options
+Exiting...
+You are leaving the graphical boot menu and starting the text mode interface.
+Help
+Boot loader
+I/O error
+Change Boot Disk
+Insert boot disk %u
+This is boot disk %u. Insert boot disk %u.
+This is not a suitable boot disk. Please insert boot disk %u.
+Password
+Enter your password:
+DVD Error
+This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.
+Power Off
+Halt the system now?
+Password
+Other Options
+Language
+Keymap
+Modes
+Normal
+Expert mode
+Accessibility
+None
+High Contrast
+Magnifier
+Screen Reader
+Braille Terminal
+Keyboard Modifiers
+On-Screen Keyboard
+Motor Difficulties - switch devices
+Everything
+^Try Ubuntu without installing
+^Try Kubuntu without installing
+^Try Edubuntu without installing
+^Try Xubuntu without installing
+^Try Ubuntu MID without installing

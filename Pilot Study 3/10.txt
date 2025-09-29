@@ -1,0 +1,50 @@
+Rope and its Usage
+In this chapter are described the various types of rope with which a seaman works, and the manner in which he uses them.
+The chapter has been divided into seven sections, headed as follows:
+Construction and characteristics of vegetable fibre cordage.
+Construction and characteristics of man-made fibre cordage.
+Construction and characteristics of wire rope.
+Handling of vegetable fibre cordage.
+Handling of man-made fibre cordage.
+Handling of wire rope.
+Handling hawsers.
+CONSTRUCTION AND CHARACTERISTICS OF VEGETABLE FIBRE CORDAGE.
+Construction and types.
+Though it is not necessary to go deeply into the process of ropemaking, an elementary knowledge of its principles is desirable.
+Ropes are made from vegetable fibres each of which is only between two and four feet long, and the first process is to comb these fibres out in a long, even ribbon, as shown in an exaggerated form in fig. 6-1.
+The ribbons are then twisted up into yarns, and the twist given binds the fibres firmly together so that they hold by friction when the yarn is subjected to strain.
+The shorter the length of the fibres the harder this twist must be to give the necessary strength to the yarn.
+This process is known as 'spinning', and the yarns are said to be spun left- or right-handed, according to the direction of twist.
+Next, a certain number of yarns are twisted together to form strands which, at the Admiralty Ropery, Chatham, are usually 150 fathoms in length when completed.
+The number and size of the yarns required to make each strand depends on the size of the rope it is intended to make.
+The number and size of the yarns required to make each strand depends on the size of the rope it is intended to make.
+This stage is known as 'twisting the strands', and again, the twist can be left- or right-handed.
+Three or four strands are now made up into a left- or right-handed rope.
+This process is called 'laying' and is always carried out in the opposite direction to that used in the previous stage of twisting the strands; it is, moreover, distinct from the simple spin or twist and is twofold, in that:
+the strands are twisted up together to form the rope, and
+at the same time the strands are rotated individually in the direction of their original twist.
+Were this not done, laying the strands together would tend to untwist the yarns in each strand.
+As the rope is laid up its length contracts like a coiled spring, giving it a certain elasticity.
+The harder the twist given to the strands in laying, the shorter will be the resultant rope-in practice, three strands of I50fathoms lay up into a rope about 120 fathoms in length - and a rope is said to be hard-laid or soft-laid.
+Three strands so laid up constitute a hawser-laid rope, which is the type of cordage most commonly used.
+Four-stranded (rot-proofed manila or sisal) rope, laid up round a heart or centre made of the same material, is known as shroud-laid rope.
+It is somewhat weaker than three-stranded rope of a similar size, but is less liable to stretch.
+It is used for shrouds and stays of small craft and is supplied in coils of 120 fathoms.
+Three hawser-laid ropes each of 120 fathoms, laid up together in the opposite direction to that of their own lay, will form a cable-laid rope, 100 fathoms in length.
+Such a rope is weaker than a hawser-laid rope of equal size, but by reason of its construction it is more elastic and is therefore used where elasticity is the chief requirement, as in towing.
+Furthermore, cable-laid rope, being more solid in construction, is more resistant to chafe and does not absorb water so readily as hawser-laid rope.
+Direction of the lay and description.
+In the Royal Navy hawser-laid rope is normally laid up right-handed; that is the strands twist away from the eye in a right-handed spiral, as in fig. 6.2.
+The direction of the lay can also be seen at a glance when the rope is viewed from above, as illustrated in fig. 6-5 (i).
+In the rope trade, right-hand lay is described as Z twist and left-hand lay as S twist, the letters indicating the direction of the lay when the rope is viewed from above.
+In a normal right-handed rope the fibres are spun right-handed to form yarns; the yarns are twisted left-handed into strands; and the strands are laid up right- handed into rope.
+Left-handed ropes, in which each component is made in exactly the opposite direction, are found in commercial practice; but the only left-handed cordage supplied to the Royal Navy - and that in very small quantities - is hammock Iashing and marline.
+In the Royal Navy cordage is described by reference to the circumference of the rope measured in inches and to the material from which it is made-for example, 4½-inch manila.
+In some countries, and commercially in Great Britain, cordage is sometimes measured by its diameter.
+The size of a strand is that of the rope from which it was taken; thus a 2-inoh strand is one taken from a 2-inch rope.
+The length of a rope is measured in fathoms.
+General characteristics.
+The strands tend to unlay unless the end of the rope is whipped (i,e, firmly bound) with twine.
+The rope will stretch under load, but may be expected to regain its normal length when slack, provided that the load applied is well within the breaking strength of the rope; a greater load, however, even if it does not part the rope, will cause a permanent extension in its length and thereby render it unfit for service.
+The older and more worn the rope, the less elasticity it will possess and the weaker it will become.
+Rope under load will tend to twist in the opposite direction to that of its lay and thereby tend to unlay itself, but it should regain its normal form when slack.

@@ -1,0 +1,50 @@
+Apertium _ A free/open-source machine translation platform
+A free/open-source machine translation platform
+Apertium is a rule-based machine translation platform.
+It is free software and released under the terms of the GNU General Public License.
+Translation
+Choose two languages and translate your text using Apertium's translation platform!
+Translate
+Detect Language
+detected
+Instant translation
+Mark unknown words
+Translate a document
+Drop a document
+Translation not yet available!
+File is too large!
+Cancel
+Format not supported!
+Download {{fileName}}
+Morphological analysis
+Choose a language and analyse your text using Apertium's morphological analysers.
+Analyse
+Morphological generation
+Choose a language and generate surface forms from your text using Apertium's morphological generators.
+Generate
+Spell checker
+APY sandbox
+Send arbitrary requests
+APY Request
+Request
+Language
+Input text
+Spotted a mistake?
+Help us improve Apertium!
+Feel free to contact us if you find a mistake, there's a project you would like to see us work on, or you would like to help out.
+This website is maintained by {{maintainer}}.
+About this website
+This site only works with JavaScript enabled, if you cannot <a href='http://www.enable-javascript.com/' target='_blank'>enable Javascript</a>, then try the <a href='http://traductor.prompsit.com' target='_blank'>translators at Prompsit</a>.
+<b>404 Error:</b> Sorry, that page doesn't exist anymore!
+About
+Download
+Contact
+Documentation
+About Apertium
+<p>Apertium is a <b>free/open-source machine translation platform</b>, initially aimed at related-language pairs but expanded to deal with more divergent language pairs (such as English-Catalan).
+The platform provides</p> <ol> <li>a language-independent machine translation engine</li> <li>tools to manage the linguistic data necessary to build a machine translation system for a given language pair and</li> <li>linguistic data for a growing number of language pairs.</li> </ol> <p>Apertium welcomes new developers: if you think you can improve the engine or the tools, or develop linguistic data for us, do not hesitate to <a data-toggle='modal' data-target='#contactModal' data-text='Help_Improve' data-keyboard='true' data-dismiss='modal' style='cursor: pointer'>contact us</a>.</p>
+Documentation can be found on our <a href='http://wiki.apertium.org/'>Wiki</a> under the <a href='http://wiki.apertium.org/wiki/Documentation' target='_blank'>Documentation</a> sub-page.
+We have published various conference papers and journal articles, a list of which may be found on the Wiki under <a href='http://wiki.apertium.org/wiki/Publications' target='_blank'>Publications</a>.
+Apertium Downloads
+Current versions of the <b>Apertium toolbox</b> as well as of <b>language-pair data</b> are available from <a href='https://sourceforge.net/projects/apertium/' target='_blank'>the SourceForge page</a>.
+Installation instructions for Apertium on all major platforms are provided on the <a href='http://wiki.apertium.org/wiki/Installation' target='_blank'>Wiki's Installation page</a>.

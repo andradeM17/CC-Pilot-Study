@@ -1,0 +1,50 @@
+Android activity manager.
+More information: <https://developer.android.com/studio/command-line/adb#am>.
+Start a specific activity
+Start an activity and pass [d]ata to it
+Start an activity matching a specific action and [c]ategory
+Convert an intent to a URI
+Show an Android bug report. This command can only be used through `adb shell`.
+More information: <https://cs.android.com/android/platform/superproject/+/master:frameworks/native/cmds/bugreport>.
+Display a complete bug report of an Android device
+Generate a zipped Android bug report. This command can only be used through `adb shell`.
+More information: <https://cs.android.com/android/platform/superproject/+/master:frameworks/native/cmds/bugreportz>.
+Generate a complete zipped bug report of an Android device
+Show the progress of a running `bugreportz` operation
+Show the version of `bugreportz`
+Display help
+Android service manager.
+More information: <https://cs.android.com/android/platform/superproject/+/master:frameworks/native/cmds/cmd/>.
+[l]ist all running services
+Call a specific service
+Call a service with specific arguments
+Android Java virtual machine.
+More information: <https://source.android.com/devices/tech/dalvik>.
+Start a specific Java program
+Provide information about Android system services. This command can only be used through `adb shell`.
+More information: <https://developer.android.com/studio/command-line/dumpsys>.
+Get diagnostic output for all system services
+Get diagnostic output for a specific system service
+List all services `dumpsys` can give information about
+List service-specific arguments for a service
+Exclude a specific service from the diagnostic output
+Specify a timeout period in seconds (defaults to 10s)
+Show information about Android system properties.
+More information: <https://manned.org/getprop>.
+Display information about Android system properties
+Send event codes or touchscreen gestures to an Android device. This command can only be used through `adb shell`.
+More information: <https://developer.android.com/reference/android/view/KeyEvent.html#constants_1>.
+Send an event code for a single character to an Android device
+Send a text to an Android device (`%s` represents spaces)
+Send a single tap to an Android device
+Dump a log of system messages, including stack traces when an error occurred, and information messages logged by applications.
+More information: <https://developer.android.com/studio/command-line/logcat>.
+Display system logs
+Write system logs to a file
+Display lines that match a regular expression
+Display information about apps on an Android device.
+More information: <https://developer.android.com/studio/command-line/adb#pm>.
+List all installed apps
+List all installed system apps
+List all installed 3rd-Party apps
+List apps matching specific keywords

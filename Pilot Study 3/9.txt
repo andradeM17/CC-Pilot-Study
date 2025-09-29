@@ -1,0 +1,50 @@
+Ada is a programming language designed in accordance with requirements defined by the United States Department of Defense: the so-called Steelman requirements.
+Overall, these requirements call for a language with considerable expressive power covering a wide application domain.
+As a result, the language includes facilities offered by classical languages such as Pascal as well as facilities often found only in specialized languages.
+Thus the language is a modern algorithmic language with the usual control structures, and with the ability to define types and subprograms.
+It also serves the need for modularity, whereby data, types, and subprograms can be packaged.
+It treats modularity in the physical sense as well, with a facility to support separate compilation.
+In addition to these aspects, the language covers real-time programming, with facilities to model parallel tasks and to handle exceptions.
+It also covers systems programming;
+this requires precise control over the representation of data and access to system-dependent properties.
+Finally, both application-level and machine-level input-output are defined.
+This standard specifies the form and meaning of program units written in Ada.
+Its purpose is to promote the portability of Ada programs to a variety of data processing systems.
+This standard specifies:
+The form of a program unit written in Ada.
+The effect of translating and executing such a program unit.
+The manner in which program units may be combined to form Ada programs.
+The predefined program units that a conforming implementation must supply.
+The permissible variations within the standard, and the manner in which they must be specified.
+Those violations of the standard that a conforming implementation is required to detect, and the effect of attempting to translate or execute a program unit containing such violations.
+Those violations of the standard that a conforming implementation is not required to detect.
+This standard does not specify:
+The means whereby a program unit written in Ada is transformed into object code executable by a processor.
+The means whereby translation or execution of program units is invoked and the executing units are controlled.
+The size or speed of the object code, or the relative execution speed of different language constructs.
+The form or contents of any listings produced by implementations; in particular, the form or contents of error or warning messages.
+The effect of executing a program unit that contains any violation that a conforming implementation is not required to detect.
+The size of a program or program unit that will exceed the capacity of a particular conforming implementation.
+Where this standard specifies that a program unit written in Ada has an exact effect, this effect is the operational meaning of the program unit and must be produced by all conforming implementations.
+Where this standard specifies permissible variations in the effects of constituents of a program unit written in Ada, the operational meaning of the program unit as a whole is understood to be the range of possible effects that result from all these variations, and a conforming implementation is allowed to produce any of these possible effects.
+Examples of permissible variations are:
+The represented values of fixed or floating numeric quantities, and the results of operations upon them.
+The order of execution of statements in different parallel tasks, in the absence of explicit synchronization.
+A conforming implementation is one that:
+Correctly translates and executes legal program units written in Ada, provided that they are not so large as to exceed the capacity of the implementation.
+Rejects all program units that are so large as to exceed the capacity of the implementation.
+Rejects all program units that contain errors whose detection is required by the standard.
+Supplies all predefined program units required by the standard.
+Contains no variations except where the standard permits.
+Specifies all such permitted variations in the manner prescribed by the standard.
+This reference manual contains fourteen chapters, three annexes, three appendices, and an index.
+Each chapter is divided into sections that have a common structure.
+Each section introduces its subject, gives any necessary syntax rules, and describes the semantics of the corresponding language constructs.
+Examples and notes, and then references, may appear at the end of a section.
+Examples are meant to illustrate the possible forms of the constructs described.
+Notes are meant to emphasize consequences of the rules described in the section or elsewhere.
+References are meant to attract the attention of readers to a term or phrase having a technical meaning defined in another section.
+The standard definition of the Ada programming language consists of the fourteen chapters and the three annexes, subject to the following restriction: the material in each of the items listed below is informative, and not part of the standard definition of the Ada programming language:
+Section 1.3 Design goals and sources
+Section 1.4 Language summary
+The examples, notes, and references given at the end of each section
