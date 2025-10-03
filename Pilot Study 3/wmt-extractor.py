@@ -24,4 +24,5 @@ for i, dataset in enumerate(datasets, start=1):
     print(f"Created {outfile} for {dataset}")
 
 # To extract data through the command line, you can use:
-#mtdata echo <dataset_name> | cut -f1 | head -n 50 > <file_to_save_to>.txt
+# Linux: mtdata echo <dataset_name> | cut -f1 | head -n 50 > <file_to_save_to>.txt
+# Windows (PowerShell): mtdata echo <dataset_name> | ForEach-Object { ($_ -split "`t")[0] } | Select-Object -First 50 > <file_to_save_to>.txt

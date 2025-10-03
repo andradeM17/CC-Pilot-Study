@@ -1,0 +1,50 @@
+Tuberculosis continues to be a threat worldwide.
+Consequently, many healthcare workers HCW are at risk of being infected and acquiring this disease.
+Good prevention programs should be established to avoid this undesirable outcome in healthcare facilities.
+To evaluate such programs, quality indicators can be used to identify the level of compliance for recommended practices.
+Quality indicator technology has been increasingly used for evaluating health care practices. They are quantitative measures of features or attributes of a given process or system, which may indicate the heath care quality provided, as well as specific needs for improvement. Three classical categories have been used for their classification: structure, process and outcome.The advantage of one over the other lies in the characteristics of the phenomenon to be measured.
+Structure indicators refer to the features required, such as human resources, equipment, information systems, etc. Process indicators measure the dynamics of a given process, or how this particular process was performed. Outcome indicators measure the frequency in which event occurs, and assess final goals, such as mortality, morbidity or patient satisfaction.
+Ideal indicators include features such as acceptability, objectivity, effectiveness, reliability, feasibility and availability, communication, interpretability, reproducibility, context, sensitivity to change, efficiency, and comparability.
+In 2006, a group of researchers in Brazil constructed and validated a set of indicators designed to evaluate the quality of programs for healthcare-associated infection HAI prevention, including occupational tuberculosis. They can also be used to gauge the extent to which the control of HAI differs between different institutions.
+Although the content was validated by professional experts, these indicators have not yet been fully tested.
+Due to great difficulty in finding patterns for feasibility assessment in the literature, the best criteria for defining feasibility was previously discussed in a focus group with specialists.
+The criterion "time" was chosen as a way of classifying these indicators as feasible.
+Providing the extent of time spent in measuring the indicator is as short as possible, the indicator is considered feasible.
+The shorter the time, the lower the human resources expense, and the more likely the indicator is to be widely use.
+In the present study we aimed to analyze the feasibility of these quality indicators for the evaluation of programs for preventing occupational tuberculosis.
+This descriptive, cross-sectional study tested the feasibility of quality indicators aimed at evaluating elements of structure, process and outcome of occupational tuberculosis prevention programs in different healthcare facilities.
+Time required for the calculationof the indicators was assessed as a measure of feasibility.
+The quality indicators are described in Figure 1, with a brief description, formula, ideal values, sources of information, components of analysis, evaluation criteria and sample.
+Indicators were applied in six different institutions in the city of São Paulo, Brazil, which met the following requirements: a acute care hospital, b public or private setting, c caring for patients with suspected or confirmed pulmonary or laryngeal tuberculosis in the bacillary phase, and d having a formal Healthcare-associated Infection Control Committee HICC.
+Selected variables were used to characterize the participant institutions and to identify the components that may contribute to the variations in the time required to calculate the indicators.
+These variables included the number of active beds; the average prevalence of daily or monthly inpatients with pulmonary orlaryngeal tuberculosis bacillus and aerosol precautions indicated, number of employees in the institution, and nature of the institution public / private / philanthropic.
+Data were collected using a standardized form, and the time was measured using a chronometer.
+Secondary variables were collected in order to identify elements justifying the time spent to collect each indicator.
+Periods of interruption and time intervals were deducted from the overall time span of the activity.
+Also, the time spent on healthcare facility characterization, as well as the time required to access the hospital facilities reception, elevators, etc. was not included in data collection.
+Indicators were tested by the same researcher in all healthcare facilities T.R.S..
+The variables of analysis were the time spent on: a data collection, and b data consolidation and analysis.
+We compared the time spent on testing of each indicator in the different institutions.
+Data were collected from December 2010 to July 2012.
+This period was required to complete data collection in all six institutions, due to the small number of inpatients having pulmonary or laryngeal tuberculosis who were placed in aerosol precautions in some of the hospitals.The data analysis was descriptive.
+Among the six institutions in which the quality indicators were tested, four were general hospitals, one was a hospital specializing in infectious disease, and one was a general hospital, although it served as a reference site for tuberculosis treatment Table 1.
+Among 2,655 beds in six institutions, 55.54% 1,480 were public.
+Altogether, these institutions had approximately 24,271 health workers, 45.91% 11,145 in the public sector.
+Among the 690 hospitalized patients with diagnosed or suspected pulmonary or laryngeal tuberculosis, 94.63% 653 were admittedtopublic institutions.
+All evaluated facilities had the same recommendation for the use of a N95 particulate respirator: to put it on in the anteroom or in the hallway before entering the room of a patient with known or suspected pulmonary or laryngeal tuberculosis bacillus.
+The TORPS indicator resulted in minimal effort and time spent on its application in all institutions Table 1 Regarding the TOSCI indicator, the information necessary for its calculation was not found in five of the six health institutions.
+Several arguments were used to report the absence of the use of Tuberculosis Skin Test TST: lack of trained personnel to perform the test, the porosity of collection, frequent lack of HCW follow-up for appropriate characterization of the reaction; difficulty in identifying the exact time period of the HCW's exposure to the mycobacterium.
+The TOI indicator was collected in five of the six institutions; there was only one healthcare facility in which data were not organized in such a way that it could be collected.
+The time used to collect this indicator was not toolong, but depended on the level of data organization.
+The TOPWC indicator required greater time for calculationTable 1.
+To note, public hospitals were more likely to require less time to collect data than the private sector.
+In public hospitals there are usually more patients admitted with tuberculosis, therefore it was possible to observe two or more patients simultaneously, thus reaching 51 observations more rapidly.
+Discussion
+Many quality indicators have been proposed in the literature, however few have been evaluated regarding their feasibility for application, which creates a gap between theory and practice.
+Nevertheless, the recommendation for their use is quite frequent.
+To our knowledge, the present study is the first to evaluate the feasibility of quality indicators, using as the criterion the time spent on administering / calculatingthem.
+Information on quality of care depends upon data availability.
+Therefore, quality is difficult to measure without correct and consistent information, which is often unavailable. A previous study evaluated the feasibility of quality indicators related to radical prostatectomy and concluded that indicators not obtaining more than 25.9% of the necessary information were considered unenforceable.
+It has also been previously shown that quality indicators for antibiotic treatment of complicated urinary tract infections were considered feasible if the data necessary to score the indicator can be abstracted from the available data for >70% of cases. Indicators should require ease of obtaining data or ease of availability of the data as a condition of feasibility, resulting in minimal effort and additional cost.
+Because time spent on data gathering and analysis reflects both on efforts and cost, less time means higherf easibility.
+Although time spent on the application of quality indicators of an occupational tuberculosis prevention program may vary in different healthcare facilities, some common features were noted from this study.
