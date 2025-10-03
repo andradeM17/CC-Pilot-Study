@@ -1,0 +1,51 @@
+PHP Manual
+Prev
+Appendix K.
+About the manual
+Next
+This manual is written in XML using the DocBook XML DTD, using DSSSL (Document Style and Semantics Specification Language) for formatting, and experimentally the XSLT (Extensible Stylesheet Language Transformations) for maintenance and formatting.
+We use Microsoft HTML Help Workshop to generate the Windows HTML Help format of the manual, and of course PHP itself to do some additional conversions and formatting.
+The manuals are updated automatically as the text is updated.
+The documentation is stored in the phpdoc module.
+Prev
+Home
+Next
+How to help improve the documentation
+Up
+Translations
+PHP Manual
+Prev
+About the manual
+Next
+There are three ways you can help to improve this documentation.
+If you find errors in this manual, in any language, please report them using the bug system at http: / /bugs.php.net /.
+You can also submit problems related to specific manual formats here.
+Use the mailing lists or community sites mentioned earlier, instead.
+But do not submit bug reports using the annotation system please.
+If you know English and some foreign language, you may also help out in the translations.
+If you would like to start a new translation, or help in a translation project, please read http: / /cvs.php.net / co.php / phpdoc / howto / howto.html.tar.gz.
+Prev
+Home
+Next
+How to find more information about PHP
+Up
+How we generate the formats
+PHP Manual
+Prev
+Next
+The PHP manual is provided in several formats.
+Note:
+We cannot recommend any of those, as they tend to become out-of-date very quickly.
+For best performance, you should choose the mirror site closest to you.
+An advantage of the online manual over most of the offline formats is the integration of user-contributed notes.
+There are several offline formats of the manual, and the most appropriate format for you depends on what operating system you use and your personal reading style.
+The most cross-platform formats of the manual are the HTML and plain-text versions.
+The HTML and plaintext formats are provided as tar files compressed using the bzip2 archiver.
+But before you rush to download this format and hit the Print button, be warned that the manual is nearly 2000 pages long, and constantly being revised.
+For owners of Palm-compatible handhelds, the Palm document and iSilo formats are ideal for this platform.
+For Windows platforms, the Windows HTML Help version of the manual soups up the HTML format for use with the Windows HTML Help application.
+Many popular Windows PHP development environments also integrate with this version of the documentation to provide easy access.
+Prev
+Home
+Next
+Up

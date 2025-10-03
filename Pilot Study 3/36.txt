@@ -1,0 +1,23 @@
+The modern web has quickly become a viable platform not only for creating stunning, high quality games, but also for distributing those games. 
+The range of games that can be created is on par with desktop and native OS counterparts. With modern Web technologies and a recent browser, it’s entirely possible to make stunning, top-notch games for the Web. 
+And we’re not talking about simple card games or multiplayer social games that have in the olden days been done using Flash®. 
+We’re talking about 3D action shooters, RPGs, and more. Thanks to massive performance improvements in JavaScript just-in-time compiler technology and new APIs, you can build games that run in the browser (or on HTML5-powered devices) without making compromises. 
+The HTML game platform 
+You can truly think of the Web as a better target platform for your game. 
+As we like to say, “the Web is the platform.” 
+Function 
+Technology 
+Audio 
+Web Audio API 
+Graphics 
+WebGL (OpenGL ES 2.0) 
+Input 
+Touch events, Gamepad API, device sensors, WebRTC, Full Screen API, Pointer Lock API 
+Language 
+JavaScript (or C/C++ using Emscripten to compile to JavaScript) 
+Networking 
+WebRTC and/or WebSockets 
+Storage 
+IndexedDB or the “cloud” 
+Web 
+HTML, CSS, SVG (and much more!)

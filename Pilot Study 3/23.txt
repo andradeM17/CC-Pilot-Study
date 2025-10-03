@@ -1,0 +1,49 @@
+Home
+Contact
+Data sheet search
+Applications
+Automotive industry
+Food and beverages
+Machine tools
+Sensors for motion control
+PDF download
+Print top of page
+Safety technology
+Identification systems
+Systems for mobile machines
+Power supplies / accessories
+Note: By using our website you agree to our use of cookies. Cookies help us to provide our services. More information X
+Made in USA
+Accessories
+Operating instructions
+More information
+Collapse all categories Expand all categories
+1: 1.5" clamp (ISO 2852)
+Product characteristics
+Installation length EL: 30 mm
+Analogue output
+7-segment LED display (4 digits)
+Measuring range: -50...150 Â°C / -58...302 Â°F
+Factory setting: 0...100 Â°C
+Electrical data
+Operating voltage [V] 18...32 DC; "supply class 2" to cULus.
+Protection class III
+Outputs
+Overload protection yes
+Measuring range -50...150 Â°C -58...302 Â°F
+Factory setting 0...100 Â°C
+Resolution
+Display [K] 0.1
+Analogue output [K] Â± 0.3 + (Â± 0.1 % MS)
+Temperature coefficients (in % of the span per 10 K) 0.1
+Power-on delay time [s] 2
+Dynamic response T05 / T09 [s] 1 / 3
+Interfaces
+Ambient temperature [Â°C] -25...80
+Storage temperature [Â°C] -40...100
+Shock resistance
+DIN IEC 68-2-6: 10 g (10...2000 Hz)
+Mechanical data
+Probe diameter [mm] 6
+Installation length EL [mm] 30
+Weight [kg] 0.27
