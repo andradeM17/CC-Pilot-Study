@@ -1,0 +1,50 @@
+About this FAQ
+What can I do to help out with this FAQ?
+First, send us any errors that you may find. Also, any suggestions that you might have, are appreciated. Better yet, send us everything that you think is unclear, and if possible, send us what you think would be a clearer solution. Our email address is kde-doc-english@kde. org.
+Second, send us your solutions of those frequently-asked questions which are still not in this FAQ. We will put them in as soon as possible.
+Last but not least, please make full use of this FAQ. Read this FAQ (and other relevant documentation) well before asking questions on the various & kde; mailing lists or newsgroups.
+You might also want to consider becoming a FAQ maintainer. Please refer to for more details.
+How do I become a FAQ maintainer?
+Actually, it is very easy to become an FAQ maintainer, and we are always in need of fresh blood.: -) Just send us an email at kde-doc-english@kde. org.
+& kde; Frequently Asked Questions
+The & kde; Team
+Malcolm Hunter malcolm. hunter@gmx. co. uk Conversion to British English
+The & kde; Team
+This is a compilation of the most frequently asked questions about the K Desktop Environment. Please report any bugs, inconsistencies, or omissions you find in this & FAQ; to kde-doc-english@kde. org. Please do not mail your questions to this list. Post them to the & kde; mailing lists and newsgroups instead. They are monitored for this & FAQ;.
+KDE
+FAQ
+question
+answer
+Credits and Licence
+The current & FAQ; maintainers are:
+Many of the answers in this & FAQ; are taken from the various & kde; mailing lists and newsgroups. Here is a big thank you to all of you who have contributed answers that eventually appear in this & FAQ;.
+Special thanks go to the former & FAQ; maintainer, who has written most of the stuff in here, and did a tremendous job: Mr. Lee Wee Tiong
+Conversion to British English: Malcolm Hunter malcolm. hunter@gmx. co. uk
+& underFDL;
+Configuring & kde;
+How do I set the language used by & kde;?
+There are two ways to set the language & kde; uses in the messages it will display:
+Using the kde; Control Centre
+Fire up the kde; Control Centre and select Regional & Accessibility followed by Country/ Region & Language. You can select your language and location here. If & kde; cannot find a translation in the first language chosen, it will fall back on the default language. This is usually (American) English by default.
+Using the kde; Control Centre is the preferred way of choosing languages in & kde;.
+Using the LANG environment variable
+The second method uses the standard locale setting on your system. To change the language, simply set the environment variable LANG accordingly. For example, if your shell is bash, execute export LANG =de to set German as the language used.
+Is there any keyboard switcher for international keyboards for & kde;?
+Yes, you can configure it using the kde; Control Centre Regional & Accessibility Keyboard Layout configuration page.
+How do I replace the standard text login screen with the & kde; login screen?
+Your distribution/ UNIX; flavour may have its own setup tools to change this (eg; YaST on & SuSE; & Linux;). This will be the safest way to enable the & kde; login screen. However, if for some reason you do not wish to use these tools, the following instructions may be useful.
+First, you need to change to the xdm runlevel (runlevel 5 on & RedHat; and & SuSE; systems) by editing your / etc/ inittab file. In the file, you should have a line saying id:3: initdefault:. Change it to id:5: initdefault:. Now, at the end of the file, comment out the following line: x:5: respawn: / usr/ bin/ X11/ xdm -nodaemon and replace it with x:5: respawn: / opt/ kde/ bin/ kdm -nodaemon.
+The location of & kdm; may differ on your system.
+For changes to take effect immediately, type init 5 (for & RedHat; systems) at the shell prompt.
+It is risky to initiate a graphical login without checking beforehand whether it works. If it fails to work, you would be in for a hard time getting back....
+For FreeBSD, you should edit the file / etc/ ttys and change one of the lines that look like ttyv8 "/ usr/ X11R6/ bin/ xdm -nodaemon" xterm off secure to instead say ttyv8 "/ usr/ local/ bin/ kdm -nodaemon" xterm off secure.
+Where do I find information regarding & kde; themes?
+How do I change & MIME; Types?
+If you are using & konqueror;, do this instead: first, open a & konqueror; window and choose Settings Configure Konqueror, then File Associations. Find the type you want to change (eg; text/ english or image/ gif), and set the application preference order to whatever you want.
+& kde; (kdm;) does not read my. bash_profile!
+The login managers xdm and & kdm; do not run a login shell, so. profile,. bash_profile, & etc; are not sourced. When the user logs in, xdm runs Xstartup as root and then Xsession as user. So the normal practice is to add statements in Xsession to source the user profile. Please edit your Xsession and. xsession files.
+How do I use & TrueType; fonts in & kde;?
+You need to install & TrueType; font support into your & X-Window; configuration. Please take a look at x. themes. org for the fonts, and xfsft: & TrueType; Font Support For X11 or X-TrueType; Server Project Home Page for the font servers.
+If you have a bunch of & TrueType; fonts from & Microsoft; & Windows;, edit the XF86Config file to get the fonts from the font folder. Then just tell & kde; to use these new fonts with the font administrator utility.
+Is it possible to enter, show and work with the Euro Symbol in & kde;?
+Yes and no. For details, look here: http: / /www. koffice. org/ kword/ euro. php.

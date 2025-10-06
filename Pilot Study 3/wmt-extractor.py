@@ -3,7 +3,7 @@ import os
 
 # List of dataset names
 datasets = [
-    "Statmt-news_commentary-18.1-eng"
+    "OPUS-news_commentary-v16-eng-zho"
 ]
 
 # Output directory

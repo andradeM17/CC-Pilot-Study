@@ -1,0 +1,50 @@
+{{GamesSidebar}}
+This article looks at the anatomy and workflow of the average video game from a technical point of view, in terms of how the main loop should run.
+It helps beginners to modern game development understand what is required when building a game and how web standards like JavaScript lend themselves as tools.
+Experienced game programmers who are new to web development could also benefit, too.
+Present, accept, interpret, calculate, repeat
+The goal of every video game is to present the user(s) with a situation, accept their input, interpret those signals into actions, and calculate a new situation resulting from those acts.
+Games are constantly looping through these stages, over and over, until some end condition occurs (such as winning, losing, or exiting to go to bed).
+Not surprisingly, this pattern corresponds to how a game engine is programmed.
+The specifics depend on the game.
+Some games drive this cycle by user input.
+Imagine that you are developing a “find the differences between these two similar pictures”-type game.
+These games present two images to the user; they accept their click (or touch); they interpret the input as a success, failure, pause, menu interaction, etc.; finally, they calculate an updated scene resulting from that input.
+The game loop is advanced by the user’s input and sleeps until they provide it.
+This is more of a turn-based approach that doesn’t demand a constant update every frame, only when the player reacts.
+Other games demand control over each of the smallest possible individual timeslices.
+The same principles as above apply with a slight twist: each frame of animation progresses the cycle and any change in user input is caught at the first available turn.
+This once-per-frame model is implemented in something called a main loop.
+If your game loops based on time then this will be its authority that your simulations will adhere to.
+But it might not need per-frame control.
+Your game loop might be similar to the find the differences example and base itself on input events.
+It might require both input and simulated time.
+It might even loop based on something else entirely.
+Modern JavaScript — as described in the next sections — thankfully makes it easy to develop an efficient, execute-once-per-frame main loop.
+Of course, your game will only be as optimized as you make it.
+If something looks like it should be attached to a more infrequent event then it is often a good idea to break it out of the main loop (but not always).
+Building a main loop in JavaScript
+JavaScript works best with events and callback functions.
+Modern browsers strive to call methods right as they are needed and idle (or do their other tasks) in the gaps.
+It is an excellent idea to attach your code to the moments that are appropriate for them.
+Think about whether your function really needs to be called on a strict interval of time, every frame, or only after something else happens.
+Being more specific with the browser about when your function needs to be called allows the browser to optimize when it is called.
+Also, it will probably make your job easier.
+Some code needs to be run frame-by-frame so why attach that function to anything other than the browser’s redraw schedule?
+On the Web, {{ domxref(“window.requestAnimationFrame()”) }} will be the foundation of most well-programmed per-frame main loops.
+A callback function must be passed in to it when it is called.
+That callback function will be executed at a suitable time before the next repaint.
+Here is an example of a simple main loop:
+window.main = () => {
+window.requestAnimationFrame(main);
+// Whatever your main loop needs to do
+};
+main(); // Start the cycle
+Note: In each of the main() methods discussed here, we schedule a new requestAnimationFrame before performing our loop contents.
+That is not by accident and it is considered best practice.
+Calling the next requestAnimationFrame early ensures the browser receives it on time to plan accordingly even if your current frame misses its VSync window.
+The above chunk of code has two statements.
+The first statement creates a function as a global variable called main().
+This function does some work and also tells the browser to call itself next frame with window.requestAnimationFrame().
+The second statement calls the main() function, defined in the first statement.
+Because main() is called once in the second statement and every call of it places itself in the queue of things to do next frame, main() is synchronized to your frame rate.

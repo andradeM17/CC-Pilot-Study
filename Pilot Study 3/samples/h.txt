@@ -1,0 +1,50 @@
+Mailing lists
+KDE has several mailing lists up.
+Older articles can be found in the mailing list archive.
+kde-request@kde.org - KDE
+kde-announce-request@kde.org - kde-announce
+Announcements of new KDE applications
+Users help each other
+For developers.
+kde-licensing-request@kde.org - kde-licensing
+Discussion of licensing issues
+kde-look-request@kde.org - kde-look
+kde-artists-request@kde.org - kde-artists
+Creating icons and other artwork
+kde-doc-english-request@kde.org - kde-doc-english
+For people interested in writing documentation for KDE.
+kde-i18n-doc-request@kde.org - kde-18n-doc
+http://i18n.kde.org/teams / "
+To subscribe:
+Leave the body of the message empty.
+Do not include a signature or other text which might confuse the mail server that processes your request.
+To unsubscribe:
+Please replace "your-email-address" with the email address you used for the subscription.
+Do not include a signature or other text which might confuse the mail server that processes your request.
+Once you have subscribed to a mailing list, you will received a message telling you how to send messages to the mailing list, and how to alter your mailing list options.
+Please do not send messages intended to be posted to the mailing list to the above addresses.
+If the subscription address is identical to the address you are posting from, you may omit the address in the subject line.
+Contacting the KDE developers
+Contact addresses for developers can be found in the documentation of their individual applications.
+Official Contacts
+Please visit our Official Representatives page if you need to contact KDE in an official way.
+More information
+Please find more information about KDE at http://www.kde.org /.
+KDE on the web
+Our main communication channel is the Internet.
+Please find links to KDE related web sites on this page.
+www.kde.org
+KDE 's official website
+kde.themes.org
+KDE themes
+developer.kde.org
+The KDE developers centre
+webcvs.kde.org
+A web interface to the KDE CVS repository
+i18n.kde.org
+KDE 's internationalisation and documentation server
+ftp.kde.org
+The main KDE FTP server.
+Please have a look at the link below to find a mirror site in your geographic region.
+www.kde.org/mirrors.html
+KDE FTP mirror sites
